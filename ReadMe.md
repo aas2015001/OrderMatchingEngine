@@ -10,7 +10,7 @@
 * Open a terminal and go to the project directory
 * Package the project
 ``` 
-    mvn -clean package
+    mvn clean package
 ```
 * Run the applicatoin
 ``` 
